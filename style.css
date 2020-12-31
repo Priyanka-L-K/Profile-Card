@@ -85,12 +85,16 @@ hr {
 	margin-bottom: 20px;
 }
 
-.name .follow-stat {
+.follow-stat {
 	font-size: 18px;
 	font-weight: 700;
 	color: hsl(229, 23%, 23%);
 }
 
+.name {
+	color:hsl(229, 23%, 23%);
+}
+	
 .age {
 	font-size: 1rem;
 }
